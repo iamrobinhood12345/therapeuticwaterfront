@@ -1,3 +1,3 @@
 # therapeuticwaterfront
 
-Client site
+Client site built on Flask
